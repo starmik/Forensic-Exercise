@@ -1,2 +1,2 @@
 # Forensic-Exercise
-Here you can find source code for Malware i investigated and detailed presentation (step-by-step).
+Here you can find source code for Malware I investigated and detailed presentation (step-by-step).
